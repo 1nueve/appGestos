@@ -1,4 +1,4 @@
-# A Blank PhoneGap App
+# App de Gestos con Hammer.js
 
 ## Usage
 
